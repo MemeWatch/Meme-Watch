@@ -176,6 +176,7 @@ center .fa:hover {
         width: 70%;
     }
 	.articlebox{
-		width:100%;
+		max-width:90%;
 	}
+
 }
